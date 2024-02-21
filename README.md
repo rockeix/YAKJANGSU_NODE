@@ -1,6 +1,6 @@
 6명 팀 프로젝트 개발환경: node.js, vue.js, mysql, figma
 
-Table
+테이블 생성문
 -- 회원
 DROP TABLE USER;
 CREATE TABLE USER  (
